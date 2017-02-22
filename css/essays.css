@@ -1,0 +1,19 @@
+div {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	background-color: #FFCC99;
+	border-top-style: dotted;
+	border-right-style: dotted;
+	border-bottom-style: dotted;
+	border-left-style: dotted;
+	border-top-color: #996633;
+	border-right-color: #996633;
+	border-bottom-color: #996633;
+	border-left-color: #996633;
+	width: 85%;
+	float: right;
+	padding: 10px;
+	margin: 0px;
+	position: relative;
+}

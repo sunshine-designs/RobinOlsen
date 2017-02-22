@@ -1,0 +1,48 @@
+body,td,th {
+	font-family: Comic Sans MS, Arial, sans-serif;
+	color: #FFFF99;
+}
+body {
+	background-color: #000000;
+}
+a:link {
+	color: #0099FF;
+	font-weight: bold;
+}
+a:visited {
+	color: #00FFFF;
+	font-weight: bold;
+}
+a:hover {
+	color: #00CC66;
+	font-weight: bold;
+}
+a:active {
+	color: #CC3300;
+	font-weight: bold;
+}
+.style3 {
+	color: #FF9900;
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+	font-style: normal;
+}
+paintmargin {
+	margin: 5px;
+	padding: 5px;
+}
+.style5 {
+	font-family: "Viner Hand ITC";
+}
+h1 {
+	font-size: 36px;
+	font-family: "Viner Hand ITC";
+}
+h2 {
+	font-family: "Viner Hand ITC";
+	font-size: 30px;
+	font-style: normal;
+	font-weight: bold;
+}

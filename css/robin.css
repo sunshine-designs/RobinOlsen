@@ -1,0 +1,53 @@
+body {
+	background-color: #D7B08A;
+	background-repeat: repeat-y;
+	background-attachment: fixed;
+	background-image: url(../images/tile%20border.jpg);
+}
+body,td,th {
+	font-family: Comic Sans MS, Arial, sans-serif;
+}
+a:link {
+	color: #CC0000;
+	font-weight: bold;
+}
+a:visited {
+	color: #0066FF;
+	font-weight: bold;
+}
+a:hover {
+	color: #009966;
+	font-weight: bold;
+}
+a:active {
+	color: #CC0000;
+	font-weight: bold;
+}
+.homedefault {
+	font-family: "Comic Sans MS", Arial, sans-serif;
+	font-size: medium;
+	font-weight: normal;
+	font-variant: normal;
+}
+h1 {
+	font-weight: bolder;
+	color: #663300;
+	font-size: 36px;
+}
+h2 {
+	color: #333300;
+	font-weight: bold;
+	font-size: 30px;
+	font-family: "Viner Hand ITC";
+	font-style: normal;
+}
+.style11 {
+	font-family: "Viner Hand ITC";
+	text-align: center;
+	color: #663300;
+}
+#links {
+	background-image: url(../images/beige112.jpg);
+	
+	
+}
